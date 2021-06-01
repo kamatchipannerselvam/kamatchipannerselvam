@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kamatchipannerselvam
+- 👋 Hi, I’m @Kamatchi Panner Selvam
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning laravel
 - 📫 How to reach me pkamatchi.netlink@gmail.com
