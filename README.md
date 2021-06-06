@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kamatchi Panner Selvam
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning laravel
+- 🌱 this is my first project in laravel
 - 📫 How to reach me pkamatchi.netlink@gmail.com
 
 <!---
